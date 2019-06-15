@@ -10,8 +10,9 @@ Welcome to Day2's documentation!
    :maxdepth: 2
    :caption: 第一章：学员介绍
    
-   1-Introduction/Self-introduction.rst
    1-Introduction/Dan self-introduction.rst
+   1-Introduction/Self-introduction.rst
+   
 
   
 .. toctree::
